@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "appId": "1234567890",
+  "version": "2.0.0",
+  "releaseType": "MANUAL",
+  "copyright": "Your Company",
+  "locales": [
+    "en-US"
+  ]
+}

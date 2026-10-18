@@ -1,0 +1,7 @@
+project_id = "app-store-release"
+
+[functions.appstore-connect-webhook]
+verify_jwt = false
+
+[functions.appstore-release]
+verify_jwt = false

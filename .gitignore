@@ -1,0 +1,10 @@
+
+# App Store release credentials and local artifacts
+supabase/.temp/
+*.p8
+__pycache__/
+
+.env
+.env.*
+!.env.example
+.DS_Store

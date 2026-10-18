@@ -1,0 +1,37 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+		AA0000000000000000000001 = {
+			isa = PBXProject;
+			attributes = { LastUpgradeCheck = 1600; };
+			buildConfigurationList = AA0000000000000000000010;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (en, Base);
+			mainGroup = AA0000000000000000000002;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (AA0000000000000000000003);
+		};
+		AA0000000000000000000002 = { isa = PBXGroup; children = (); sourceTree = "<group>"; };
+		AA0000000000000000000003 = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = AA0000000000000000000011;
+			buildPhases = ();
+			dependencies = ();
+			name = ReleaseAutomation;
+			productName = ReleaseAutomation;
+		};
+		AA0000000000000000000010 = { isa = XCConfigurationList; buildConfigurations = (AA0000000000000000000020, AA0000000000000000000021); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		AA0000000000000000000011 = { isa = XCConfigurationList; buildConfigurations = (AA0000000000000000000022, AA0000000000000000000023); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		AA0000000000000000000020 = { isa = XCBuildConfiguration; name = Debug; buildSettings = { SDKROOT = macosx; SUPPORTED_PLATFORMS = macosx; MACOSX_DEPLOYMENT_TARGET = 14.0; }; };
+		AA0000000000000000000021 = { isa = XCBuildConfiguration; name = Release; buildSettings = { SDKROOT = macosx; SUPPORTED_PLATFORMS = macosx; MACOSX_DEPLOYMENT_TARGET = 14.0; }; };
+		AA0000000000000000000022 = { isa = XCBuildConfiguration; name = Debug; buildSettings = {}; };
+		AA0000000000000000000023 = { isa = XCBuildConfiguration; name = Release; buildSettings = {}; };
+	};
+	rootObject = AA0000000000000000000001;
+}
